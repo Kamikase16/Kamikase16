@@ -12,8 +12,7 @@
 
 ### Tools 🛠️
 - Know/Using
-src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | 
-
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
 <!--
 **Kamikase16/Kamikase16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
